@@ -16,6 +16,13 @@ function FindProxyForURL(url, host) {
     "*tpc.googlesyndication.com*",
     "*mirmay.com*",
     "*mmaaxx.com*",
+    "*d.href.asia*",
+    "*www.antennash.com*",
+    "*le.nakanohito.jp*",
+    "*biz.line.naver.jp*",
+    "*image.with2.net*",
+    "*ziyu.net*",
+    "*ads.pixiv.org*",
     "*d.amoad.com*"
   ];
   for (var i = 0; i < urls.length; i++)
