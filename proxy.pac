@@ -16,6 +16,7 @@ function FindProxyForURL(url, host) {
     "*tpc.googlesyndication.com*",
     "*mirmay.com*",
     "*mmaaxx.com*",
+    "*as.criteo.com*",
     "*d.href.asia*",
     "*www.antennash.com*",
     "*le.nakanohito.jp*",
