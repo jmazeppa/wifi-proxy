@@ -7,6 +7,8 @@ function FindProxyForURL(url, host) {
     "*unthem.com*",
     "*tapone.jp*",
     "*tpc.googlesyndication.com*",
+    "*mirmay.com*",
+    "*mmaaxx.com*",
     "*d.amoad.com*"
   ];
   for (var i = 0; i < urls.length; i++)
