@@ -24,6 +24,7 @@ function FindProxyForURL(url, host) {
     "*image.with2.net*",
     "*ziyu.net*",
     "*ads.pixiv.org*",
+    "*alxsite.com*",
     "*d.amoad.com*"
   ];
   for (var i = 0; i < urls.length; i++)
