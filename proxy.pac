@@ -26,7 +26,7 @@ function FindProxyForURL(url, host) {
     "*ads.pixiv.org*",
     "*alxsite.com*",
     "*pagead2.googlesyndication.com*",
-    "*gamewith.akamaized.net*",
+    //"*gamewith.akamaized.net*",
     "*d.amoad.com*"
   ];
   for (var i = 0; i < urls.length; i++)
