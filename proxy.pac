@@ -32,6 +32,10 @@ function FindProxyForURL(url, host) {
     "*i-mobile.co.jp*",
     "*ads.pixiv.org*",
     //"*gamewith.akamaized.net*",
+    "*sprout-ad.com*",
+    "*le.nakanohito.jp*",
+    "*microad.net*",
+    "*js1.nend.net*",
     "*d.amoad.com*"
   ];
   for (var i = 0; i < urls.length; i++)
