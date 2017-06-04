@@ -36,6 +36,8 @@ function FindProxyForURL(url, host) {
     "*le.nakanohito.jp*",
     "*microad.net*",
     "*js1.nend.net*",
+    "*adingo.jp*",
+    "*impact-ad.jp*",
     "*d.amoad.com*"
   ];
   for (var i = 0; i < urls.length; i++)
